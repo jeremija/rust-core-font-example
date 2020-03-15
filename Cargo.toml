@@ -1,0 +1,10 @@
+[package]
+name = "core-font-test"
+version = "0.0.1"
+authors = ["Jerko Steiner <jerko.steiner+cargo@gmail.com>"]
+description = "Testing core fonts"
+license = "MIT"
+edition = "2018"
+
+[dependencies]
+core-text = "13"
